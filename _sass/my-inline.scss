@@ -2,3 +2,15 @@
 // .sidebar a {
 //   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 // }
+
+.nav-btn-bar {
+    height: 60px;
+}
+
+a#_menu.nav-btn.no-hover {
+    height: 60px;
+}
+
+.icon-menu::before {
+    font-size: x-large;
+}

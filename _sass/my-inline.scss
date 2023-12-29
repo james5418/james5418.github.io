@@ -14,3 +14,13 @@ a#_menu.nav-btn.no-hover {
 .icon-menu::before {
     font-size: x-large;
 }
+
+.icon-google-scholar::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f19d";
+}
+
+.ai.ai-cv::before {
+    font-weight: 600;
+}

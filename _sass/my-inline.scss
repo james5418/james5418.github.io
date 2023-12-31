@@ -24,3 +24,66 @@ a#_menu.nav-btn.no-hover {
 .ai.ai-cv::before {
     font-weight: 600;
 }
+
+.education-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+.education-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+.education-item:last-child {
+    margin-bottom: 0;
+}
+.education-item img {
+    width: 70px;
+    height: 70px;
+    margin-right: 1rem;
+}
+.education-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.skill {
+    margin-bottom: 1em;
+}
+.skill-name {
+    font-size: 1rem; 
+    font-weight: bold;
+    margin-bottom: .4em;
+}
+.skill-bar {
+    background-color: #ddd;
+    height: 10px;
+    position: relative;
+}
+.skill-level {
+    background-color: #00b4d8;
+    height: 100%;
+}
+.skill-detail {
+    font-size: 0.75em;
+    color: #666;
+    margin-top: .5em;
+}
+.tags-container {
+    margin-top: 10px;
+    display: flex;
+    gap: 5px; /* Adjust the space between tags */
+}
+.tag {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 0.75rem; 
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background-color: #fff;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    cursor: default;
+    user-select: none;
+}

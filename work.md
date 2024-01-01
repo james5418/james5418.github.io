@@ -1,4 +1,6 @@
 ---
 layout: page
-title: Work Experience
+title: Work
 ---
+
+## Internship

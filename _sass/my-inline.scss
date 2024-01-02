@@ -79,9 +79,11 @@ a#_menu.nav-btn.no-hover {
     margin-top: .5em;
 }
 .tags-container {
-    margin-top: 10px;
     display: flex;
-    gap: 5px; /* Adjust the space between tags */
+    margin-left: 1.5rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    gap: 5px;
 }
 .tag {
     display: inline-block;
@@ -95,11 +97,13 @@ a#_menu.nav-btn.no-hover {
     cursor: default;
     user-select: none;
 }
+.tag:hover {
+    border-color: #4fb1ba;
+}
 
 .paper-tags-container {
-    margin-top: 5px;
     display: flex;
-    gap: 5px; /* Adjust the space between tags */
+    gap: 3px;
 }
 .paper-tag {
     display: inline-block;
@@ -115,4 +119,20 @@ a#_menu.nav-btn.no-hover {
 }
 .paper {
     margin-bottom: 0em;
+}
+
+.languages-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #666;
+}
+.language-name {
+    color: #333;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    text-align: left;
+    width: 60px;
 }

@@ -21,7 +21,7 @@ Besides, I completed three internships in backend engineering, where I gained ha
   <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
       <img src="/assets/img/nycu_logo.png" alt="NYCU" style="width: 70px; height: 70px; margin-right: 1rem;" />
       <div style="display: flex; flex-direction: column;">
-          <div  style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">National Yang Ming Chiao Tung University</div>
+          <div style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">National Yang Ming Chiao Tung University</div>
           <div style="color: #4a5568;">Bachelor of Science in Computer Science</div>
           <div style="color: #718096;">Sep. 2019 - Jun. 2023 &ensp;|&ensp; Hsinchu, Taiwan</div>
       </div>
@@ -40,15 +40,76 @@ Besides, I completed three internships in backend engineering, where I gained ha
 
 ## <i class="fa-solid fa-gear"></i> Skills
 
-<div class="skill">
-    <div class="skill-name">
-        <i class="icon-android"></i> Backend
-    </div>
-    <div class="skill-bar">
-        <div class="skill-level" style="width: 95%;"></div>
-    </div>
-    <div class="tags-container">
-        <span class="tag">Python</span>
-        <span class="tag">FastAPI</span>
-    </div>      
+
+<div class="languages-container">
+    <h4 class="language-name">Backend</h4>
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i>
+</div>
+<div class="tags-container">
+    <span class="tag">Python</span>
+    <span class="tag">FastAPI</span>
+</div>  
+
+
+<div class="languages-container">
+    <h4 class="language-name">DevOps</h4>
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-half"></i> 
+    <i class="icon-star-empty"></i>
+</div>
+<div class="tags-container">
+    <span class="tag">Docker</span>
+    <span class="tag">Kubernetes</span>
+</div>  
+
+<div class="languages-container">
+    <h4 class="language-name">Android</h4>
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-empty"></i> 
+    <i class="icon-star-empty"></i>
+</div>
+<div class="tags-container">
+    <span class="tag">Kotlin</span>
+    <span class="tag">Jetpack Compose</span>
+</div>
+
+<div class="languages-container">
+    <h4 class="language-name">Frontend</h4>
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-empty"></i>
+    <i class="icon-star-empty"></i>
+    <i class="icon-star-empty"></i>
+</div>
+<div class="tags-container">
+    <span class="tag">React.js</span>
+    <span class="tag">Next.js</span>
+</div>  
+
+## <i class="fa-solid fa-earth-americas"></i> Languages
+
+<div class="languages-container">
+    <h4 class="language-name">Chinese</h4>
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i>
+</div>
+
+<div class="languages-container">
+    <h4 class="language-name">English</h4>
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-full"></i> 
+    <i class="icon-star-half"></i> 
+    <i class="icon-star-empty"></i>
 </div>

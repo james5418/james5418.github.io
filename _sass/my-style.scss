@@ -17,6 +17,9 @@
   .skills-container {
     grid-template-columns: 1fr;
   }
+}
+
+@media (max-width: 768px) {
   .card-container {
     grid-template-columns: 1fr;
   }

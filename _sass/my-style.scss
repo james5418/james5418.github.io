@@ -12,3 +12,12 @@
     margin: 1rem 0;
   }
 }
+
+@media (max-width: 768px) {
+  .skills-container {
+    grid-template-columns: 1fr;
+  }
+  .card-container {
+    grid-template-columns: 1fr;
+  }
+}

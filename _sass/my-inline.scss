@@ -3,6 +3,14 @@
 //   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 // }
 
+h1, h2, h3, .h1, .h2, .h3 {
+    margin: 2.5rem 0 1rem;
+}
+
+.page-title {
+    font-size: 2rem;
+}
+
 .nav-btn-bar {
     height: 60px;
 }
@@ -28,8 +36,8 @@ a#_menu.nav-btn.no-hover {
 .education-container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem;
-  }
+    padding:1rem;
+}
 .education-item {
     display: flex;
     align-items: center;
@@ -48,32 +56,21 @@ a#_menu.nav-btn.no-hover {
     flex-direction: column;
 }
 
-.skill {
-    margin-bottom: 1em;
-}
-.skill-name {
-    font-size: 1rem; 
-    font-weight: bold;
-    margin-bottom: .4em;
-}
-.skill-bar {
-    background-color: #ddd;
-    height: 10px;
-    position: relative;
-}
-.skill-level {
-    background-color: #00b4d8;
-    height: 100%;
-}
-.skill-detail {
-    font-size: 0.75em;
-    color: #666;
-    margin-top: .5em;
+.skills-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
 }
 .tags-container {
-    margin-top: 10px;
     display: flex;
-    gap: 5px; /* Adjust the space between tags */
+    margin-left: 1.2rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    gap: 5px;
+}
+.tags-container-work {
+    margin-left: 0.25rem;
+    margin-top: 0rem;
+    margin-bottom: 2.25rem;
 }
 .tag {
     display: inline-block;
@@ -86,4 +83,147 @@ a#_menu.nav-btn.no-hover {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     cursor: default;
     user-select: none;
+}
+.tag:hover {
+    border-color: #4fb1ba;
+}
+
+.paper-tags-container {
+    display: flex;
+    gap: 7px;
+}
+.paper-tag {
+    display: inline-block;
+    padding: 0.8px 8px;
+    font-size: 0.75rem; 
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background-color: #fff;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    user-select: none;
+    text-decoration: none;
+}
+.paper {
+    margin-bottom: 0.5em;
+}
+
+.languages-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #666;
+}
+.language-name {
+    color: #333;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    text-align: left;
+    width: 60px;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; 
+}
+.card {
+    background: rgba(0, 0, 0, 0.025);
+    border: 1px solid #ddd;
+    border-radius: 10px; 
+    text-decoration: none;
+    color: #333;
+    box-shadow: 0.125rem 0.125rem 1rem rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+.card img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: block;
+} 
+.card h3 {
+    margin: 16px 16px 8px 16px;
+}
+.card p {
+    margin: 0 16px 16px;
+}
+
+.experience {
+    max-width: 1200px;
+    margin-left: 15px;
+}
+.timeline {
+    position: relative;
+    margin-top: 20px;
+}
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2.5px;
+    background: #e5e5e5;
+    transform: translateY(1%);
+}
+.event {
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    list-style-type: none;
+}
+.event:last-child {
+    margin-bottom: 0;
+}
+.event::before {
+    content: '';
+    position: absolute;
+    left: -27px;
+    top: 9px;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    background: #fff;
+    border: 2.5px solid #e5e5e5;
+    transition: background-color 0.4s, border-color 0.4s;
+}
+.event:hover::before {
+    background-color: #a5a5a5;
+    border-color: #a5a5a5;
+}
+.event-title, .event-subtitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.4rem;
+}
+.event-company {
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: Roboto Slab;
+    color: #2d3748;
+}
+.event-position {
+    font-size: 1.1rem;
+    font-family: Roboto Slab;
+    color: #4a5568;
+}
+.event-location, .event-time {
+    font-size: 0.95rem;
+    color: #718096;
+    font-style: italic;
+    margin-left: auto;
+    white-space: nowrap;
+}
+.event-description {
+    margin-bottom: 0.5rem;
+}
+.event-description li+li {
+    margin-top: 0rem;
 }

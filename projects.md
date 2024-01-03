@@ -8,7 +8,7 @@ title: Projects
     <div>
       <img src="/assets/img/notisummary_logo.png" alt="NotiSummary">
       <h3>NotiSummary</h3>
-      <p>An GPT-powered application for summarizing smartphone notifications.</p>
+      <p>A GPT-powered application for summarizing smartphone notifications.</p>
     </div>
   </a>
   <a href="https://github.com/james5418/LinkLite" target="_blank" rel="noopener noreferrer" class="card">

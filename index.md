@@ -19,20 +19,20 @@ Besides, I completed three internships in backend engineering, where I gained ha
 
 <div style="max-width: 1200px; margin: 0 auto; padding: 1rem;">
   <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-      <img src="/assets/img/nycu_logo.png" alt="NYCU" style="width: 70px; height: 70px; margin-right: 1rem;" />
-      <div style="display: flex; flex-direction: column;">
-          <div style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">National Yang Ming Chiao Tung University</div>
-          <div style="color: #4a5568;">Bachelor of Science in Computer Science</div>
-          <div style="color: #718096;">Sep. 2019 - Jun. 2023 &nbsp;|&nbsp; Hsinchu, Taiwan</div>
-      </div>
+    <img src="/assets/img/nycu_logo.png" alt="NYCU" style="width: 70px; height: 70px; margin-right: 1rem;" />
+    <div style="display: flex; flex-direction: column;">
+      <div style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">National Yang Ming Chiao Tung University</div>
+      <div style="color: #4a5568;">Bachelor of Science in Computer Science</div>
+      <div style="color: #718096;">Sep. 2019 - Jun. 2023 &nbsp;|&nbsp; Hsinchu, Taiwan</div>
+    </div>
   </div>
 
   <div style="display: flex; align-items: center; margin-bottom: 0;">
     <img src="/assets/img/hsnu_logo.png" alt="HSNU" style="width: 70px; height: 70px; margin-right: 1rem;" />
     <div style="display: flex; flex-direction: column;">
-        <div style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">The Affiliated Senior High School of National Taiwan Normal University</div>
-        <div style="color: #4a5568;">Class 1443</div>
-        <div style="color: #718096;">Sep. 2016 - Jun. 2019 &nbsp;|&nbsp; Taipei, Taiwan</div>
+      <div style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">The Affiliated Senior High School of National Taiwan Normal University</div>
+      <div style="color: #4a5568;">Class 1443</div>
+      <div style="color: #718096;">Sep. 2016 - Jun. 2019 &nbsp;|&nbsp; Taipei, Taiwan</div>
     </div>
   </div>
 </div>
@@ -108,19 +108,19 @@ Besides, I completed three internships in backend engineering, where I gained ha
 ## <i class="fa-solid fa-earth-americas"></i> Languages
 
 <div class="languages-container">
-    <h4 class="language-name">Chinese</h4>
-    <i class="icon-star-full"></i> 
-    <i class="icon-star-full"></i> 
-    <i class="icon-star-full"></i> 
-    <i class="icon-star-full"></i> 
-    <i class="icon-star-full"></i>
+  <h4 class="language-name">Chinese</h4>
+  <i class="icon-star-full"></i> 
+  <i class="icon-star-full"></i> 
+  <i class="icon-star-full"></i> 
+  <i class="icon-star-full"></i> 
+  <i class="icon-star-full"></i>
 </div>
 
 <div class="languages-container">
-    <h4 class="language-name">English</h4>
-    <i class="icon-star-full"></i> 
-    <i class="icon-star-full"></i> 
-    <i class="icon-star-full"></i> 
-    <i class="icon-star-half"></i> 
-    <i class="icon-star-empty"></i>
+  <h4 class="language-name">English</h4>
+  <i class="icon-star-full"></i> 
+  <i class="icon-star-full"></i> 
+  <i class="icon-star-full"></i> 
+  <i class="icon-star-half"></i> 
+  <i class="icon-star-empty"></i>
 </div>

@@ -7,7 +7,7 @@ title: Projects
   <a href="https://github.com/noti-summary/NotiSummary" target="_blank" rel="noopener noreferrer" class="card">
     <img src="/assets/img/notisummary_logo.png" alt="NotiSummary">
     <h3>NotiSummary</h3>
-    <p>An AI-powered application for summarizing smartphone notifications.</p>
+    <p>An GPT-powered application for summarizing smartphone notifications.</p>
   </a>
 
   <a href="https://github.com/james5418/LinkLite" target="_blank" rel="noopener noreferrer" class="card">

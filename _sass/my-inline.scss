@@ -36,7 +36,7 @@ a#_menu.nav-btn.no-hover {
 .education-container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem;
+    padding:1rem;
 }
 .education-item {
     display: flex;
@@ -67,6 +67,11 @@ a#_menu.nav-btn.no-hover {
     margin-bottom: 0.5rem;
     gap: 5px;
 }
+.tags-container-work {
+    margin-left: 0.25rem;
+    margin-top: 0rem;
+    margin-bottom: 2.25rem;
+}
 .tag {
     display: inline-block;
     padding: 2px 8px;
@@ -85,10 +90,23 @@ a#_menu.nav-btn.no-hover {
 
 .paper-tags-container {
     display: flex;
-    gap: 3px;
+    gap: 7px;
+}
+.paper-tag {
+    display: inline-block;
+    padding: 0.8px 8px;
+    font-size: 0.75rem; 
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+    background-color: #fff;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    user-select: none;
+    text-decoration: none;
 }
 .paper {
-    margin-bottom: 0em;
+    margin-bottom: 0.5em;
 }
 
 .languages-container {
@@ -134,4 +152,78 @@ a#_menu.nav-btn.no-hover {
 }
 .card p {
     margin: 0 16px 16px;
+}
+
+.experience {
+    max-width: 1200px;
+    margin-left: 15px;
+}
+.timeline {
+    position: relative;
+    margin-top: 20px;
+}
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2.5px;
+    background: #e5e5e5;
+    transform: translateY(1%);
+}
+.event {
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    list-style-type: none;
+}
+.event:last-child {
+    margin-bottom: 0;
+}
+.event::before {
+    content: '';
+    position: absolute;
+    left: -27px;
+    top: 9px;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    background: #fff;
+    border: 2.5px solid #e5e5e5;
+    transition: background-color 0.4s, border-color 0.4s;
+}
+.event:hover::before {
+    background-color: #a5a5a5;
+    border-color: #a5a5a5;
+}
+.event-title, .event-subtitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.4rem;
+}
+.event-company {
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: Roboto Slab;
+    color: #2d3748;
+}
+.event-position {
+    font-size: 1.1rem;
+    font-family: Roboto Slab;
+    color: #4a5568;
+}
+.event-location, .event-time {
+    font-size: 0.95rem;
+    color: #718096;
+    font-style: italic;
+    margin-left: auto;
+    white-space: nowrap;
+}
+.event-description {
+    margin-bottom: 0.5rem;
+}
+.event-description li+li {
+    margin-top: 0rem;
 }

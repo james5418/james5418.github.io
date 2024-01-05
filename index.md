@@ -8,7 +8,7 @@ cover: true
 Hi! I am Peng-Jui Wang (王朋睿).
 {:.lead}
 
-I recently graduated from [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"} in Taiwan with a bachelor's degree in computer science. Now, I am applying for a master’s degree in computer science in the United States. 
+I recently graduated from [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"} in Taiwan with a bachelor’s degree in computer science. My expertise lies in backend development, and I possess a keen interest in various technical domains like software systems and mobile technology.
 
 During the last two years of my undergraduate studies, I was a research assistant at Professor [Yung-Ju Chang’s](https://www.armuro.info){:target="_blank" rel="noopener noreferrer"} Mobile and Ubiquitous Interaction Lab. In this role, I conducted research focused on mobile notification and developed intelligent notification systems that enhance smartphone users’ experience of notifications. 
 

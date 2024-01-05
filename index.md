@@ -17,22 +17,21 @@ Besides, I completed three internships in backend engineering, where I gained ha
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
-<div style="max-width: 1200px; margin: 0 auto; padding: 1rem;">
-  <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-    <img src="/assets/img/nycu_logo.png" alt="NYCU" style="width: 70px; height: 70px; margin-right: 1rem;" />
-    <div style="display: flex; flex-direction: column;">
-      <div style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">National Yang Ming Chiao Tung University</div>
-      <div style="color: #4a5568;">Bachelor of Science in Computer Science</div>
-      <div style="color: #718096;">Sep. 2019 - Jun. 2023 &nbsp;|&nbsp; Hsinchu, Taiwan</div>
+<div class="education-container">
+  <div class="education-item">
+    <img src="/assets/img/nycu_logo.png" alt="NYCU"/>
+    <div class="education-details">
+      <div class="education-name">National Yang Ming Chiao Tung University</div>
+      <div class="education-degree">Bachelor of Science in Computer Science</div>
+      <div class="education-time">Sep. 2019 - Jun. 2023 &nbsp;|&nbsp; Hsinchu, Taiwan</div>
     </div>
   </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 0;">
-    <img src="/assets/img/hsnu_logo.png" alt="HSNU" style="width: 70px; height: 70px; margin-right: 1rem;" />
-    <div style="display: flex; flex-direction: column;">
-      <div style="font-size: 1.125rem; font-weight: 600; color: #2d3748;">The Affiliated Senior High School of National Taiwan Normal University</div>
-      <div style="color: #4a5568;">Class 1443</div>
-      <div style="color: #718096;">Sep. 2016 - Jun. 2019 &nbsp;|&nbsp; Taipei, Taiwan</div>
+  <div class="education-item">
+    <img src="/assets/img/hsnu_logo.png" alt="HSNU"/>
+    <div class="education-details">
+      <div class="education-name">The Affiliated Senior High School of National Taiwan Normal University</div>
+      <div class="education-degree">Class 1443</div>
+      <div class="education-time">Sep. 2016 - Jun. 2019 &nbsp;|&nbsp; Taipei, Taiwan</div>
     </div>
   </div>
 </div>

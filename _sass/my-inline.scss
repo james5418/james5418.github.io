@@ -51,9 +51,21 @@ a#_menu.nav-btn.no-hover {
     height: 70px;
     margin-right: 1rem;
 }
-.education-text {
+.education-details {
     display: flex;
     flex-direction: column;
+}
+.education-name {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #2d3748;
+    font-family: var(--font-family-heading);
+} 
+.education-degree {
+    color: #4a5568;
+}
+.education-time {
+    color: #718096;
 }
 
 .skills-container {
@@ -207,12 +219,12 @@ a#_menu.nav-btn.no-hover {
 .event-company {
     font-size: 1.25rem;
     font-weight: 600;
-    font-family: Roboto Slab;
+    font-family: var(--font-family-heading);
     color: #2d3748;
 }
 .event-position {
     font-size: 1.1rem;
-    font-family: Roboto Slab;
+    font-family: var(--font-family-heading);
     color: #4a5568;
 }
 .event-location, .event-time {

@@ -5,7 +5,7 @@ permalink: /
 cover: true
 ---
 
-Hi! I am Peng-Jui Wang (王朋睿).
+Hi, I am Peng-Jui Wang (王朋睿)!
 {:.lead}
 
 I recently graduated from [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"} in Taiwan with a bachelor’s degree in computer science. My expertise lies in backend development, and I possess a keen interest in various technical domains like software systems and mobile technology.

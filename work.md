@@ -25,11 +25,12 @@ title: Work
         <span class="tag">Python</span>
         <span class="tag">FastAPI</span>
         <span class="tag">Flask</span>
+        <span class="tag">GraphQL</span>
         <span class="tag">Docker</span>
         <span class="tag">PostgreSQL</span>
         <span class="tag">Elastic Stack</span>
-        <span class="tag">Google Cloud Platform</span>
-        <span class="tag">Amazon Web Services</span>
+        <span class="tag">GCP</span>
+        <span class="tag">AWS</span>
       </div>
     </li>
     <li class="event">

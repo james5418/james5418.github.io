@@ -17,9 +17,9 @@ title: Work
         <span class="event-location">Taipei, Taiwan</span>
       </div>
       <ul class="event-description">
-        <li>Built a Pub/Sub‑based notification service handling 1000+ messages daily, with email integration and customizable formatting</li>
-        <li>Boosted system observability via integration of Elastic APM and OpenTelemetry for end‑to‑end performance monitoring</li>
-        <li>Employed multiple design patterns to migrate the existing monolithic system into 3 scalable, modular microservices</li>
+        <li>Built a Pub/Sub-based notification service handling 1000+ messages daily, with email integration and customizable formatting</li>
+        <li>Developed a dashboard that enabled hundreds of employees to track and manage the company's advertising business</li>
+        <li>Boosted overall system observability by integrating Elastic APM and OpenTelemetry for end-to-end performance monitoring</li>
       </ul>
       <div class="tags-container tags-container-work">
         <span class="tag">Python</span>

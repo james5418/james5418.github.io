@@ -98,7 +98,7 @@ Besides, I completed three internships in backend engineering, where I gained ha
       <span class="tag">Git</span>
       <span class="tag">Nginx</span>
       <span class="tag">Elastic Stack</span>
-      <span class="tag">Google Cloud Platform</span>
+      <span class="tag">GCP</span>
     </div>
   </div>
 </div>

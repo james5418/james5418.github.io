@@ -43,9 +43,9 @@ title: Work
         <span class="event-location">Taipei, Taiwan</span>
       </div>
       <ul class="event-description">
-        <li>Implemented a logging system using Elastic stack, achieving a 95% decrease in manual log analysis efforts</li>
+        <li>Deployed a logging system with Elastic stack to streamline log analysis across multiple servers, cutting manual effort by 95%</li>
         <li>Refactored the backend codebase with Object Relational Mapping (ORM), reducing the use of raw SQL queries by 70%</li>
-        <li>Designed and managed 3 new databases to support the ongoing projects and enable smooth project delivery</li>
+        <li>Implemented 3 new features for the internal portal, benefiting over 100 non‑technical staff in the company</li>
       </ul>
       <div class="tags-container tags-container-work">
         <span class="tag">Python</span>

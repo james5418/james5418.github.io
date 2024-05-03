@@ -10,24 +10,28 @@ title: Work
     <li class="event">
       <div class="event-title">
         <a class="event-company" href="https://www.appier.com" target="_blank" rel="noopener noreferrer">Appier Inc.</a>
-        <span class="event-time">Jul. 2023 ‑ Present</span>
+        <span class="event-time">Jul. 2023 ‑ Jun. 2024</span>
       </div>
       <div class="event-subtitle">
         <span class="event-position">Software Engineer Intern</span>
         <span class="event-location">Taipei, Taiwan</span>
       </div>
       <ul class="event-description">
-        <li>Built a Pub/Sub-based notification service handling 1000+ messages daily, with email integration and customizable formatting</li>
-        <li>Developed a dashboard that enabled hundreds of employees to track and manage the company's advertising business</li>
-        <li>Boosted overall system observability by integrating Elastic APM and OpenTelemetry for end-to-end performance monitoring</li>
+        <li>Built a scalable and fault‑tolerant notification microservice handling 10000+ messages daily based on the Pub/Sub model</li>
+        <li>Developed a dashboard to replace JIRA for hundreds of employees to track and manage the company’s advertising business</li>
+        <li>Optimized frontend performance and responsiveness by implementing virtualized rendering for large‑scale tabular data</li>
+        <li>Boosted overall system observability by integrating Elastic APM and OpenTelemetry for end‑to‑end performance monitoring</li>
+        <li>Introduced Clean Architecture and Domain‑Driven Design to enhance the structure and maintainability of various projects</li>
       </ul>
       <div class="tags-container tags-container-work">
         <span class="tag">Python</span>
         <span class="tag">FastAPI</span>
         <span class="tag">Flask</span>
+        <span class="tag">TypeScript</span>
+        <span class="tag">React.js</span>
         <span class="tag">GraphQL</span>
         <span class="tag">Docker</span>
-        <span class="tag">PostgreSQL</span>
+        <span class="tag">Jenkins</span>
         <span class="tag">Elastic Stack</span>
         <span class="tag">GCP</span>
         <span class="tag">AWS</span>
@@ -74,6 +78,7 @@ title: Work
         <span class="tag">FastAPI</span>
         <span class="tag">Docker</span>
         <span class="tag">Kubernetes</span>
+        <span class="tag">PostgreSQL</span>
         <span class="tag">Drone CI</span>
         <span class="tag">Ansible</span>
       </div>

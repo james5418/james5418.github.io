@@ -5,21 +5,33 @@ permalink: /
 cover: true
 ---
 
-Hi, I am Peng-Jui Wang (王朋睿)!
+Hi, I am Peng-Jui (James) Wang!
 {:.lead}
 
-I recently graduated from [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"} in Taiwan with a bachelor’s degree in computer science. My expertise lies in backend development, and I possess a keen interest in various technical domains like software systems and mobile technology.
+I am currently pursuing a Master's degree in computer science at the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}. My expertise lies in backend development, and I possess a keen interest in various technical domains like software systems and mobile technology.
 
-During the last two years of my undergraduate studies, I was a research assistant at Professor [Yung-Ju Chang’s](https://www.armuro.info){:target="_blank" rel="noopener noreferrer"} Mobile and Ubiquitous Interaction Lab. In this role, I conducted research focused on mobile notification and developed intelligent notification systems that enhance smartphone users’ experience of notifications. 
+I have completed three internships in backend engineering, where I developed my skills in designing and building efficient systems. These experiences have greatly enhanced my technical expertise and have made me a skilled and competitive professional in the industry.
 
-Besides, I completed three internships in backend engineering, where I gained hands-on skills in building efficient backend systems, managing databases, and applying DevOps practices. These experiences marked a significant growth in my practical expertise, putting me firmly on the path to becoming a skilled and competitive professional in the field.
+Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"}, I was a research assistant at Professor Yung-Ju Chang’s Mobile and Ubiquitous Interaction Lab. In this role, I conducted research focused on mobile notifications and developed intelligent notification systems that enhance smartphone users’ experience of notifications. 
 
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
 <div class="education-container">
   <div class="education-item">
-    <img src="/assets/img/nycu_logo.png" alt="NYCU"/>
+    <a href="https://ucsd.edu" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/ucsd_logo.png" alt="UCSD"/>
+    </a>
+    <div class="education-details">
+      <div class="education-name">University of California, San Diego</div>
+      <div class="education-degree">Master of Science in Computer Science and Engineering</div>
+      <div class="education-time">Sep. 2024 ‑ Jun. 2026 &nbsp;|&nbsp; La Jolla, CA</div>
+    </div>
+  </div>
+  <div class="education-item">
+    <a href="https://www.nycu.edu.tw" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/nycu_logo.png" alt="NYCU"/>
+    </a>
     <div class="education-details">
       <div class="education-name">National Yang Ming Chiao Tung University</div>
       <div class="education-degree">Bachelor of Science in Computer Science</div>
@@ -27,7 +39,9 @@ Besides, I completed three internships in backend engineering, where I gained ha
     </div>
   </div>
   <div class="education-item">
-    <img src="/assets/img/hsnu_logo.png" alt="HSNU"/>
+    <a href="https://www.hs.ntnu.edu.tw" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/hsnu_logo.png" alt="HSNU"/>
+    </a>
     <div class="education-details">
       <div class="education-name">The Affiliated Senior High School of National Taiwan Normal University</div>
       <div class="education-degree">Class 1443</div>
@@ -68,6 +82,8 @@ Besides, I completed three internships in backend engineering, where I gained ha
     <div class="tags-container">
       <span class="tag">React.js</span>
       <span class="tag">Next.js</span>
+      <span class="tag">Tailwind CSS</span>
+      <span class="tag">Material UI</span>
     </div>
   </div>
   <div class="skills-column">
@@ -77,6 +93,7 @@ Besides, I completed three internships in backend engineering, where I gained ha
     <div class="tags-container">
       <span class="tag">Docker</span>
       <span class="tag">Kubernetes</span>
+      <span class="tag">Jenkins</span>
       <span class="tag">Drone CI</span>
       <span class="tag">GitHub Action</span>
       <span class="tag">Ansible</span>

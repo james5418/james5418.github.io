@@ -61,7 +61,7 @@ title: Work
     </li>
     <li class="event">
       <div class="event-title">
-        <a class="event-company" href="https://www.fastable.ai" target="_blank" rel="noopener noreferrer">Kapito Inc.</a>
+        <a class="event-company" href="https://www.kapito.ai" target="_blank" rel="noopener noreferrer">Kapito Inc.</a>
         <span class="event-time">Jul. 2022 ‑ Aug. 2022</span>
       </div>
       <div class="event-subtitle">

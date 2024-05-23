@@ -24,7 +24,7 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
     </a>
     <div class="education-details">
       <div class="education-name">University of California, San Diego</div>
-      <div class="education-degree">Master of Science in Computer Science and Engineering</div>
+      <div class="education-degree">Master of Science in Computer Science</div>
       <div class="education-time">Sep. 2024 ‑ Jun. 2026 &nbsp;|&nbsp; La Jolla, CA</div>
     </div>
   </div>

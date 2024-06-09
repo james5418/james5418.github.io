@@ -19,7 +19,7 @@ title: Work
       <ul class="event-description">
         <li>Built a scalable and fault‑tolerant notification microservice handling 10000+ messages daily based on the Pub/Sub model</li>
         <li>Developed a dashboard to replace JIRA for over 500 employees to track and manage the company's advertising business</li>
-        <li>Optimized frontend performance and responsiveness by implementing virtualized rendering for large‑scale tabular data</li>
+        <li>Optimized frontend performance by utilizing virtualized rendering for large‑scale tabular data, decreasing load times by 50%</li>
         <li>Boosted overall system observability by integrating Elastic APM and OpenTelemetry for end‑to‑end performance monitoring</li>
         <li>Introduced Clean Architecture and Domain‑Driven Design to enhance the structure and maintainability of various projects</li>
       </ul>

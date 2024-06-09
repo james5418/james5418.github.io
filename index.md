@@ -8,9 +8,9 @@ cover: true
 Hi, I am Peng-Jui (James) Wang!
 {:.lead}
 
-I am currently pursuing a Master's degree in computer science at the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}. My expertise lies in backend development, and I possess a keen interest in various technical domains like software systems and mobile technology.
+I am currently a Master's student in Computer Science at the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}. My expertise lies in backend development, and I possess a keen interest in various technical domains like software systems and mobile technology.
 
-I have completed three internships in backend engineering, where I developed my skills in designing and building efficient systems. These experiences have greatly enhanced my technical expertise and have made me a skilled and competitive professional in the industry.
+With three internships in backend engineering under my belt, I have developed a strong proficiency in designing and building efficient systems. These experiences have greatly enhanced my technical prowess and have made me a competitive professional in the industry.
 
 Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"}, I was a research assistant at Professor Yung-Ju Chang’s Mobile and Ubiquitous Interaction Lab. In this role, I conducted research focused on mobile notifications and developed intelligent notification systems that enhance smartphone users’ experience of notifications. 
 
@@ -112,6 +112,7 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
       <h4 class="language-name">Services</h4>
     </div>
     <div class="tags-container">
+      <span class="tag">Linux</span>
       <span class="tag">Git</span>
       <span class="tag">Nginx</span>
       <span class="tag">Elastic Stack</span>

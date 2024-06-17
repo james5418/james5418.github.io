@@ -8,7 +8,7 @@ cover: true
 Hi, I am Peng-Jui (James) Wang!
 {:.lead}
 
-I'm currently a Master's student in Computer Science at the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}. I'm a software developer specializing in backend engineering, and I possess a keen interest in various technical domains like cloud computing and mobile technology. 
+I'm currently a Master's student in Computer Science at the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}. I'm a software developer specializing in backend engineering, and I possess a keen interest in various technical domains like cloud computing, distributed systems, and mobile technology.
 
 Over the past two years, I have completed three internships in backend development, where I gained hands-on experience in building efficient systems, managing databases, and applying DevOps practices. With my expertise and passion, I look forward to contributing to impactful projects and continuing my professional growth in the tech industry.
 
@@ -60,11 +60,12 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
     </div>
     <div class="tags-container">
       <span class="tag">Python</span>
-      <span class="tag">C</span>
-      <span class="tag">C++</span>
+      <span class="tag">C/C++</span>
+      <span class="tag">Kotlin</span>
       <span class="tag">JavaScript</span>
       <span class="tag">TypeScript</span>
-      <span class="tag">Kotlin</span>
+      <span class="tag">HTML/CSS</span>
+      <span class="tag">Shell Script</span>
     </div>
     <div class="languages-container">
       <h4 class="language-name">Backend</h4>
@@ -117,6 +118,7 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
       <span class="tag">Nginx</span>
       <span class="tag">Elastic Stack</span>
       <span class="tag">GCP</span>
+      <span class="tag">AWS</span>
     </div>
   </div>
 </div>

@@ -21,7 +21,7 @@ title: Work
         <li>Developed a dashboard to replace JIRA for over 500 employees to track and manage the company's advertising business</li>
         <li>Optimized frontend performance by utilizing virtualized rendering for large‑scale tabular data, decreasing load times by 50%</li>
         <li>Boosted overall system observability by integrating Elastic APM and OpenTelemetry for end‑to‑end performance monitoring</li>
-        <li>Introduced Clean Architecture and Domain‑Driven Design to enhance the structure and maintainability of various projects</li>
+        <li>Created Jenkins pipelines for developers to set up dev environments remotely via APIs, reducing human intervention by 90%</li>
       </ul>
       <div class="tags-container tags-container-work">
         <span class="tag">Python</span>

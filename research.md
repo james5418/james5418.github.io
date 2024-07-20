@@ -10,6 +10,9 @@ During my junior and senior years, I worked as an undergraduate research assista
 
 ## Publications
 
+> Yong‑Han Lin, Li‑Ting Su, Uei‑Dar Chen, Yi‑Chi Lee, **Peng‑Jui Wang**, and Yung‑Ju Chang. 2024. Pinning, Sorting, and Categorizing Notifications: A Mixed‑methods Usage and Experience Study of Mobile Notification‑management Features. *IMWUT ’24.*
+> {:.paper}
+
 > **Peng‑Jui Wang**, Yi‑Chi Lee, Uei‑Dar Chen, and Yung‑Ju Chang. 2023. NotiSummary: Exploring the Potential of AI‑Driven Text Summarization on Smartphone Notification Management. *UbiComp/ISWC ’23.* 
 > {:.paper}
 > <div class="paper-tags-container">

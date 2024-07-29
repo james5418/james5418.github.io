@@ -9,7 +9,7 @@ title: Work
   <ul class="timeline">
     <li class="event">
       <div class="event-title">
-        <a class="event-company" href="https://www.appier.com" target="_blank" rel="noopener noreferrer">Appier Inc.</a>
+        <a class="event-company" href="https://www.appier.com" target="_blank" rel="noopener noreferrer">Appier</a>
         <span class="event-time">Jul. 2023 ‑ Jun. 2024</span>
       </div>
       <div class="event-subtitle">
@@ -39,7 +39,7 @@ title: Work
     </li>
     <li class="event">
       <div class="event-title">
-        <a class="event-company" href="https://www.sea.com/products/shopee" target="_blank" rel="noopener noreferrer">Shopee Pte. Ltd.</a>
+        <a class="event-company" href="https://www.sea.com/products/shopee" target="_blank" rel="noopener noreferrer">Shopee</a>
         <span class="event-time">Oct. 2022 ‑ Mar. 2023</span>
       </div>
       <div class="event-subtitle">
@@ -61,7 +61,7 @@ title: Work
     </li>
     <li class="event">
       <div class="event-title">
-        <a class="event-company" href="https://www.kapito.ai" target="_blank" rel="noopener noreferrer">Kapito Inc.</a>
+        <a class="event-company" href="https://www.kapito.ai" target="_blank" rel="noopener noreferrer">Kapito</a>
         <span class="event-time">Jul. 2022 ‑ Aug. 2022</span>
       </div>
       <div class="event-subtitle">

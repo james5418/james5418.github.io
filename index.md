@@ -66,6 +66,7 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
       <span class="tag">TypeScript</span>
       <span class="tag">HTML/CSS</span>
       <span class="tag">Shell Script</span>
+      <span class="tag">SQL</span>
     </div>
     <div class="languages-container">
       <h4 class="language-name">Backend</h4>

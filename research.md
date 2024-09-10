@@ -5,13 +5,17 @@ title: Research
 
 ## Mobile and Ubiquitous Interaction Lab
 
-During my junior and senior years, I worked as an undergraduate research assistant in Professor [Yung-Ju Chang's](https://www.armuro.info){:target="_blank" rel="noopener noreferrer"} Mobile and Ubiquitous Interaction Lab, focusing on mobile attention and notification. Herein, I accumulated substantial research experience in human-computer interaction and contributed to multiple projects. My research primarily centered around mobile notification summarization and the related challenges in combination with generative AI. This led to the development of [NotiSummary](https://github.com/noti-summary/NotiSummary){:target="_blank" rel="noopener noreferrer"}, an app that employs large language models to present mobile notifications in a concise summary form. In addition, I collaborated on projects investigating mobile notification management techniques and cross-device notification interactions. These efforts resulted in several publications at prestigious conferences like [CHI](https://dl.acm.org/conference/chi){:target="_blank" rel="noopener noreferrer"} and [UbiComp](https://dl.acm.org/conference/ubicomp){:target="_blank" rel="noopener noreferrer"}.
+During my junior and senior years, I worked as an undergraduate research assistant in Professor [Yung-Ju Chang's](https://www.armuro.info){:target="_blank" rel="noopener noreferrer"} Mobile and Ubiquitous Interaction Lab, focusing on mobile attention and notification. Herein, I accumulated substantial research experience in human-computer interaction and contributed to multiple projects. My research primarily centered around mobile notification summarization and the related challenges in combination with generative AI. This led to the development of [NotiSummary](https://github.com/noti-summary/NotiSummary){:target="_blank" rel="noopener noreferrer"}, an app that employs large language models to present mobile notifications in a concise summary form. In addition, I collaborated on projects investigating mobile notification management techniques and cross-device notification interactions. These efforts resulted in several publications at prestigious conferences.
 
 
 ## Publications
 
 > Yong‑Han Lin, Li‑Ting Su, Uei‑Dar Chen, Yi‑Chi Lee, **Peng‑Jui Wang**, and Yung‑Ju Chang. 2024. Pinning, Sorting, and Categorizing Notifications: A Mixed‑methods Usage and Experience Study of Mobile Notification‑management Features. *IMWUT ’24.*
 > {:.paper}
+> <div class="paper-tags-container">
+>   <a href="https://dl.acm.org/doi/10.1145/3678579" class="paper-tag" target="_blank" rel="noopener noreferrer">DOI</a>
+>   <a href="/assets/papers/pinning-sorting-and-categorizing-notification.pdf" class="paper-tag" target="_blank" rel="noopener noreferrer">PDF</a>
+> </div> 
 
 > **Peng‑Jui Wang**, Yi‑Chi Lee, Uei‑Dar Chen, and Yung‑Ju Chang. 2023. NotiSummary: Exploring the Potential of AI‑Driven Text Summarization on Smartphone Notification Management. *UbiComp/ISWC ’23.* 
 > {:.paper}

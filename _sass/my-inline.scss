@@ -58,12 +58,8 @@ a#_menu.nav-btn.no-hover {
 .education-name {
     font-size: 1.125rem;
     font-weight: 600;
-    color: #2d3748;
     font-family: var(--font-family-heading);
 } 
-.education-degree {
-    color: #4a5568;
-}
 .education-time {
     color: #718096;
 }
@@ -91,8 +87,6 @@ a#_menu.nav-btn.no-hover {
     font-size: 0.75rem; 
     border: 1px solid #ccc;
     border-radius: 4px;
-    color: #333;
-    background-color: #fff;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     cursor: default;
     user-select: none;
@@ -111,8 +105,6 @@ a#_menu.nav-btn.no-hover {
     font-size: 0.75rem; 
     border: 2px solid #ccc;
     border-radius: 4px;
-    color: #333;
-    background-color: #fff;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     user-select: none;
@@ -126,16 +118,17 @@ a#_menu.nav-btn.no-hover {
     display: flex;
     align-items: center;
     gap: 8px;
-    color: #666;
 }
 .language-name {
-    color: #333;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-top: 0.3rem;
     margin-bottom: 0.3rem;
     text-align: left;
     width: 60px;
+}
+.language-stars {
+    color: #666;
 }
 
 .card-container {
@@ -148,7 +141,6 @@ a#_menu.nav-btn.no-hover {
     border: 1px solid #ddd;
     border-radius: 10px; 
     text-decoration: none;
-    color: #333;
     box-shadow: 0.125rem 0.125rem 1rem rgba(0, 0, 0, 0.2);
     transition: transform 0.2s;
 }
@@ -220,12 +212,10 @@ a#_menu.nav-btn.no-hover {
     font-size: 1.25rem;
     font-weight: 600;
     font-family: var(--font-family-heading);
-    color: #2d3748;
 }
 .event-position {
     font-size: 1.1rem;
     font-family: var(--font-family-heading);
-    color: #4a5568;
 }
 .event-location, .event-time {
     font-size: 0.95rem;

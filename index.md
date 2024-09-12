@@ -129,18 +129,18 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
 
 <div class="languages-container">
   <h4 class="language-name">Chinese</h4>
-  <i class="icon-star-full"></i> 
-  <i class="icon-star-full"></i> 
-  <i class="icon-star-full"></i> 
-  <i class="icon-star-full"></i> 
-  <i class="icon-star-full"></i>
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-full language-stars"></i>
 </div>
 
 <div class="languages-container">
   <h4 class="language-name">English</h4>
-  <i class="icon-star-full"></i> 
-  <i class="icon-star-full"></i> 
-  <i class="icon-star-full"></i> 
-  <i class="icon-star-half"></i> 
-  <i class="icon-star-empty"></i>
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-full language-stars"></i> 
+  <i class="icon-star-empty language-stars"></i>
 </div>

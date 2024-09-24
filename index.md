@@ -61,6 +61,7 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
     <div class="tags-container">
       <span class="tag">Python</span>
       <span class="tag">C/C++</span>
+      <span class="tag">Java</span>
       <span class="tag">Kotlin</span>
       <span class="tag">JavaScript</span>
       <span class="tag">TypeScript</span>

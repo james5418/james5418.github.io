@@ -56,6 +56,7 @@ title: Work
         <span class="tag">FastAPI</span>
         <span class="tag">Docker</span>
         <span class="tag">MySQL</span>
+        <span class="tag">SQL</span>
         <span class="tag">Elastic Stack</span>
       </div>
     </li>

@@ -10,7 +10,7 @@ Hi, I am Peng-Jui (James) Wang!
 
 I'm currently a Master's student in Computer Science at the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}. I'm a software developer specializing in backend engineering, and I possess a keen interest in various technical domains like cloud computing, distributed systems, and mobile technology.
 
-Over the past two years, I have completed three internships in backend development, where I gained hands-on experience in building efficient systems, managing databases, and applying DevOps practices. With my expertise and passion, I look forward to contributing to impactful projects and continuing my professional growth in the tech industry.
+Over the past two years, I have interned as a backend software engineer at three different companies. Therefore, I have developed strong abilities in designing and building software systems, while also gaining hands-on experience with cloud services, databases, and DevOps. With my expertise and passion, I look forward to contributing to impactful projects and continuing my professional growth in the tech industry.
 
 Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"}, I was a research assistant at Professor Yung-Ju Chang's Mobile and Ubiquitous Interaction Lab. In this role, I conducted research focused on mobile notifications and developed intelligent notification systems that enhance smartphone users' experience of notifications. 
 

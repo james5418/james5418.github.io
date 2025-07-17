@@ -28,7 +28,7 @@ description:           >
   Hi, I am Peng-Jui Wang!
 
 # A shorter description for the sidebar.
-tagline:               🔱 MSCS@UCSD 🔱
+tagline:               MSCS @ UCSD
 
 # A list of keywords for your blog
 keywords:              []
@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me.JPG
+logo:                  /assets/img/me.jpeg
 favicon:               /assets/icons/icon-72x72.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
@@ -67,7 +67,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © Peng-Jui Wang 2024
+copyright:             © Peng-Jui Wang 2025
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

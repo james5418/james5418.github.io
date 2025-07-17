@@ -9,6 +9,30 @@ title: Work
   <ul class="timeline">
     <li class="event">
       <div class="event-title">
+        <a class="event-company" href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <span class="event-time">Jun. 2025 ‑ Sep. 2025</span>
+      </div>
+      <div class="event-subtitle">
+        <span class="event-position">Systems & Infrastructure Engineering Intern</span>
+        <span class="event-location">Sunnyvale, CA</span>
+      </div>
+      <ul class="event-description">
+        <li>Developed a Python library integrating with Iceberg and HDFS to stream data from databases into ML training workflows</li>
+        <li>Eliminated over 40000 TB of compute usage by replacing legacy data loaders, saving roughly \$3 million in hardware costs</li>
+        <li>Partnered with the ML team to plug the new library into PyTorch and TensorFlow pipelines within Flyte for distributed training</li>
+      </ul>
+      <div class="tags-container tags-container-work">
+        <span class="tag">Python</span>
+        <span class="tag">Apache Iceberg</span>
+        <span class="tag">Apache Arrow</span>
+        <span class="tag">Ray</span>
+        <span class="tag">Flyte</span>
+        <span class="tag">OpenHouse</span>
+        <span class="tag">HDFS</span>
+      </div>
+    </li>
+    <li class="event">
+      <div class="event-title">
         <a class="event-company" href="https://www.appier.com" target="_blank" rel="noopener noreferrer">Appier</a>
         <span class="event-time">Jul. 2023 ‑ Jun. 2024</span>
       </div>
@@ -19,9 +43,9 @@ title: Work
       <ul class="event-description">
         <li>Built a scalable and fault‑tolerant notification microservice handling 10000+ messages daily based on the Pub/Sub model</li>
         <li>Developed a dashboard with 5 engineers for over 400 employees to track and manage the company’s advertising business</li>
-        <li>Optimized frontend performance by utilizing virtualized rendering for large‑scale tabular data, decreasing load times by 50%</li>
         <li>Boosted overall system observability by integrating Elastic APM and OpenTelemetry for end‑to‑end performance monitoring</li>
         <li>Created Jenkins pipelines for 10+ developers to set up dev environments and databases, reducing human intervention by 90%</li>
+        <li>Optimized frontend performance by utilizing virtualized rendering for large‑scale tabular data, decreasing load times by 50%</li>
       </ul>
       <div class="tags-container tags-container-work">
         <span class="tag">Python</span>

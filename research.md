@@ -3,12 +3,13 @@ layout: page
 title: Research
 ---
 
-## Mobile and Ubiquitous Interaction Lab
+## Agentic Intelligence for Mobile Engagement and EXperience Lab
 
-During my junior and senior years, I worked as an undergraduate research assistant in Professor [Yung-Ju Chang's](https://www.armuro.info){:target="_blank" rel="noopener noreferrer"} Mobile and Ubiquitous Interaction Lab, focusing on mobile attention and notification. Herein, I accumulated substantial research experience in human-computer interaction and contributed to multiple projects. My research primarily centered around mobile notification summarization and the related challenges in combination with generative AI. This led to the development of [NotiSummary](https://github.com/noti-summary/NotiSummary){:target="_blank" rel="noopener noreferrer"}, an app that employs large language models to present mobile notifications in a concise summary form. In addition, I collaborated on projects investigating mobile notification management techniques and cross-device notification interactions. These efforts resulted in several publications at prestigious conferences.
+During my junior and senior years, I worked as an undergraduate research assistant in Professor [Yung-Ju Chang's](https://www.armuro.info){:target="_blank" rel="noopener noreferrer"} Agentic Intelligence for Mobile Engagement and EXperience Lab, focusing on mobile attention and notification. Herein, I accumulated substantial research experience in human-computer interaction and contributed to multiple projects. My research primarily centered around mobile notification summarization and the related challenges in combination with generative AI. This led to the development of [NotiSummary](https://github.com/noti-summary/NotiSummary){:target="_blank" rel="noopener noreferrer"}, an app that employs large language models to present mobile notifications in a concise summary form. In addition, I collaborated on projects investigating mobile notification management techniques and cross-device notification interactions. These efforts resulted in several publications at prestigious conferences.
 
 
 ## Publications
+> Uei‑Dar Chen, **Peng‑Jui Wang**, Yi‑Chi Lee, and Yung‑Ju Chang. 2025. From Overwhelmed to Overview: Understanding Smartphone Users' Preferences and Expectations in Relieving Notification Overload via Text Summarization. *MobileHCI ’25.* 
 
 > Yong‑Han Lin, Li‑Ting Su, Uei‑Dar Chen, Yi‑Chi Lee, **Peng‑Jui Wang**, and Yung‑Ju Chang. 2024. Pinning, Sorting, and Categorizing Notifications: A Mixed‑methods Usage and Experience Study of Mobile Notification‑management Features. *IMWUT ’24.*
 > {:.paper}

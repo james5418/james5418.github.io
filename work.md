@@ -17,8 +17,8 @@ title: Work
         <span class="event-location">Sunnyvale, CA</span>
       </div>
       <ul class="event-description">
-        <li>Developed a Python library integrating with Iceberg and HDFS to stream data from databases into ML training workflows</li>
-        <li>Eliminated over 40000 TB of compute usage by replacing legacy data loaders, saving roughly \$3 million in hardware costs</li>
+        <li>Built a library integrating Apache Iceberg, Arrow, and HDFS to stream data from data lakehouses into ML training workflows</li>
+        <li>Reduced over 40000 TB of memory usage per week by replacing legacy data loaders, saving $3 million in hardware costs</li>
         <li>Partnered with the ML team to plug the new library into PyTorch and TensorFlow pipelines within Flyte for distributed training</li>
       </ul>
       <div class="tags-container tags-container-work">

@@ -9,7 +9,12 @@ During my junior and senior years, I worked as an undergraduate research assista
 
 
 ## Publications
-> Uei‑Dar Chen, **Peng‑Jui Wang**, Yi‑Chi Lee, and Yung‑Ju Chang. 2025. From Overwhelmed to Overview: Understanding Smartphone Users' Preferences and Expectations in Relieving Notification Overload via Text Summarization. *MobileHCI ’25.* 
+> Uei‑Dar Chen, **Peng‑Jui Wang**, Yi‑Chi Lee, Yong-Han Lin, Yu-Ling Chou, and Yung‑Ju Chang. 2025. From Overwhelmed to Overview: Understanding Smartphone Users' Preferences and Expectations in Relieving Notification Overload via Text Summarization. *MobileHCI ’25.*
+> {:.paper}
+> <div class="paper-tags-container">
+>   <a href="https://dl.acm.org/doi/10.1145/3743703" class="paper-tag" target="_blank" rel="noopener noreferrer">DOI</a>
+>   <a href="/assets/papers/from-overwhelmed-to-overview.pdf" class="paper-tag" target="_blank" rel="noopener noreferrer">PDF</a>
+> </div> 
 
 > Yong‑Han Lin, Li‑Ting Su, Uei‑Dar Chen, Yi‑Chi Lee, **Peng‑Jui Wang**, and Yung‑Ju Chang. 2024. Pinning, Sorting, and Categorizing Notifications: A Mixed‑methods Usage and Experience Study of Mobile Notification‑management Features. *IMWUT ’24.*
 > {:.paper}

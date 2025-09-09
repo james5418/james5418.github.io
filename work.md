@@ -24,10 +24,10 @@ title: Work
       <div class="tags-container tags-container-work">
         <span class="tag">Python</span>
         <span class="tag">Apache Iceberg</span>
+        <span class="tag">Apache Spark</span>
+        <span class="tag">Apache DataFusion</span>
         <span class="tag">Apache Arrow</span>
-        <span class="tag">Ray</span>
         <span class="tag">Flyte</span>
-        <span class="tag">OpenHouse</span>
         <span class="tag">HDFS</span>
       </div>
     </li>

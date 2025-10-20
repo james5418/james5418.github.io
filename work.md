@@ -14,7 +14,7 @@ title: Work
       </div>
       <div class="event-subtitle">
         <span class="event-position">Systems & Infrastructure Engineering Intern</span>
-        <span class="event-location">Sunnyvale, CA</span>
+        <span class="event-location">Mountain View, CA</span>
       </div>
       <ul class="event-description">
         <li>Built a library integrating Apache Iceberg, Arrow, and HDFS to stream data from data lakehouses into ML training workflows</li>

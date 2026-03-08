@@ -2,6 +2,33 @@
 layout: page
 title: Work
 ---
+## Full‑Time
+
+<div class="experience">
+  <ul class="timeline">
+    <li class="event">
+      <div class="event-title">
+        <a class="event-company" href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <span class="event-time">Feb. 2026 ‑ Present</span>
+      </div>
+      <div class="event-subtitle">
+        <span class="event-position">Software Engineer, Systems Infrastructure</span>
+        <span class="event-location">Mountain View, CA</span>
+      </div>
+      <ul class="event-description">
+        <li>Developed OpenHouse, an open-source control plane for managing tables in open data lakehouses</li>
+      </ul>
+      <div class="tags-container tags-container-work">
+        <span class="tag">Java</span>
+        <span class="tag">Apache Iceberg</span>
+        <span class="tag">Apache Spark</span>
+        <span class="tag">HDFS</span>
+        <span class="tag">Kubernetes</span>
+      </div>
+    </li>
+  </ul>
+</div>
+
 
 ## Internships
 

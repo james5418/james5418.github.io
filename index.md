@@ -8,11 +8,9 @@ cover: true
 Hi, I am James!
 {:.lead}
 
-I'm currently a Master's student in Computer Science at the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}. I'm a software developer specializing in backend engineering, and I possess a keen interest in data infrastructure, distributed systems, and cloud computing.
+I'm a software engineer at LinkedIn. I build high-performance distributed systems and large-scale data infrastructure. My interests include distributed systems, databases, cloud computing, and DevOps. I earned my Master's degree in Computer Science from the [University of California, San Diego](https://ucsd.edu){:target="_blank" rel="noopener noreferrer"}, and my Bachelor's degree in Computer Science from [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"}. 
 
-Over the past couple of years, I have interned as a software engineer at four different companies. Therefore, I have developed strong abilities in designing and building software systems, while also gaining hands-on experience with cloud services, databases, and DevOps. With my expertise and passion, I look forward to contributing to impactful projects and continuing my professional growth in the tech industry.
-
-Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw){:target="_blank" rel="noopener noreferrer"}, I was a research assistant at Professor Yung-Ju Chang's Agentic Intelligence for Mobile Engagement and EXperience Lab. In this role, I conducted research focused on mobile notifications and developed intelligent notification systems that enhance smartphone users' experience of notifications. 
+During my undergraduate studies, I was a research assistant at Professor Yung-Ju Chang's Agentic Intelligence for Mobile Engagement and EXperience Lab. In this role, I conducted research focused on mobile notifications and developed intelligent notification systems that enhance smartphone users' experience of notifications. 
 
 
 ## <i class="fas fa-graduation-cap"></i> Education
@@ -60,8 +58,8 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
     </div>
     <div class="tags-container">
       <span class="tag">Python</span>
-      <span class="tag">C/C++</span>
       <span class="tag">Java</span>
+      <span class="tag">C/C++</span>
       <span class="tag">Go</span>
       <span class="tag">JavaScript</span>
       <span class="tag">TypeScript</span>
@@ -110,24 +108,3 @@ Additionally, during my undergraduate studies at [National Yang Ming Chiao Tung 
     </div>
   </div>
 </div>
-
-
-<!-- ## <i class="fa-solid fa-earth-americas"></i> Languages
-
-<div class="languages-container">
-  <h4 class="language-name">Chinese</h4>
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-full language-stars"></i>
-</div>
-
-<div class="languages-container">
-  <h4 class="language-name">English</h4>
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-full language-stars"></i> 
-  <i class="icon-star-empty language-stars"></i>
-</div> -->

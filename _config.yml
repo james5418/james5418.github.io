@@ -28,7 +28,7 @@ description:           >
   Hi, I am Peng-Jui Wang!
 
 # A shorter description for the sidebar.
-tagline:               MSCS @ UCSD
+tagline:               SWE @ LinkedIn
 
 # A list of keywords for your blog
 keywords:              []
@@ -67,7 +67,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © Peng-Jui Wang 2025
+copyright:             © Peng-Jui Wang 2026
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

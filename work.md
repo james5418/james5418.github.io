@@ -16,13 +16,16 @@ title: Work
         <span class="event-location">Mountain View, CA</span>
       </div>
       <ul class="event-description">
-        <li>Developed OpenHouse, an open-source control plane for managing tables in open data lakehouses</li>
+        <li>Developed OpenHouse, an open-source control plane for managing tables in large-scale data lakehouses</li>
       </ul>
       <div class="tags-container tags-container-work">
         <span class="tag">Java</span>
+        <span class="tag">Scala</span>
         <span class="tag">Apache Iceberg</span>
         <span class="tag">Apache Spark</span>
+        <span class="tag">Trino</span>
         <span class="tag">HDFS</span>
+        <span class="tag">Airflow</span>
         <span class="tag">Kubernetes</span>
       </div>
     </li>

@@ -8,7 +8,7 @@ cover: true
 Hi, I am James!
 {:.lead}
 
-I'm a software engineer at LinkedIn with an M.S. in Computer Science from UC San Diego. I focus on distributed systems and large-scale data infrastructure. Currently, I'm building [OpenHouse](https://github.com/linkedin/openhouse){:target="_blank" rel="noopener noreferrer"}, a control plane for table management within LinkedIn’s data lakehouse, ensuring our data platform remains reliable and performant at massive scale.
+I'm a software engineer at LinkedIn with an M.S. in Computer Science from UC San Diego. I focus on distributed systems and large-scale data infrastructure. Currently, I'm building [OpenHouse](https://github.com/linkedin/openhouse){:target="_blank" rel="noopener noreferrer"}, an open‑source control plane for table management within LinkedIn’s data lakehouse, ensuring our data platform remains reliable and performant at massive scale.
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
